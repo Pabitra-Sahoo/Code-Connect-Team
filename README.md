@@ -111,6 +111,18 @@ Rediscover the joy of coding with your team. CodeConnect makes collaboration sim
 1.https://github.com/Subhasis-biswal/    
 2.www.linkedin.com/in/atisha04   
 3.www.linkedin.com/in/oceaneyes
+
+
  
-     
+## 🌐 Socials:
+[![Team-Seven](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://pabitra-sahoo.github.io/Code-Connect-Team/) 
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dfgvb&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
   
